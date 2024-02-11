@@ -10,3 +10,5 @@ If you are reviewing the code and the results of said code, keep in mind that bo
 - Then, I combine all the necessary data into a single tibble, and then select the necessary columns as indicated in the assignment instructions.
 - Finally, the script generates a data set sorted by the variables "activity" and "id_subject" in ascending order. The values ​​for all other columns (variables) represent the average according to the subject and the activity that each subject performed.
 
+I must emphasize that your results may be different if you are reviewing this and comparing your project with mine, however, I have done everything the instructions indicate according to how I understood them. In any case, small adjustments in your script or mine would allow us to do exactly the same thing.
+
